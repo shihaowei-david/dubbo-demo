@@ -1,0 +1,2 @@
+flyRobotFilter=person.shw.dubbo.demo.activate.impl.FlyRobotFilter
+runRobotFilter=person.shw.dubbo.demo.activate.impl.RunRobotFilter

@@ -1,0 +1,2 @@
+flyCar=person.shw.dubbo.demo.ioc.impl.FlyCar
+runCar=person.shw.dubbo.demo.ioc.impl.RunCar
